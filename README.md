@@ -1,5 +1,5 @@
 ![Soccer Player Tracker](https://github.com/MaxyZhu75/High-Performance-Soccer-Player-Tracking-System-with-CNN/blob/main/summary/ScreenShots9.png)
-# High Performance Soccer Player Tracking System with CNN
+# High Performance Soccer Player Tracking System with Convolutional Neural Networks
 Visual object tracking has many practical applications in sports, such as tracking motion trajectory, recording player’s speed and helping make strategies. However, modern soccer has become a very fast-paced affair and with players who possess blistering pace and acceleration to volt forward. Considering that the video streams have a higherframe rate, achieving top tracking performance over real-time speed is considered as one of the main challenges. In this paper, we aim to implement a comprehensive soccer player tracking system which can run at frame-rates beyond real-time, and is easy to use in practice.
 
 ![GUI](https://github.com/MaxyZhu75/High-Performance-Soccer-Player-Tracking-System-with-CNN/blob/main/summary/GUI.png)

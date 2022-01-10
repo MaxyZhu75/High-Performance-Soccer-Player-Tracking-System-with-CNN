@@ -15,6 +15,6 @@ Please check [Screenshots](https://github.com/MaxyZhu75/High-Performance-Soccer-
 [1] F. Zhang, Q. Wang, B. Li, Z. Chen, J. Zhou. PysSOT, Github repository, https://github.com/STVIR/pysot, 2018.
 
 ## Contact
-Thank you so much for your interests. Note that this project can not straightforward be your course assignment solution. Do not download and submit my code without any change. Contact me and we can modify this Soccer Player Tracking System further.
+Thank you so much for your interests. Note that this project can not straightforward be your course assignment solution. Do not download and submit my code without any change. Contact me and I am happy to modify this Soccer Player Tracking System further with you.
 * Email: maoqinzhu@umass.edu
 * LinkedIn: [Max Zhu](https://www.linkedin.com/in/maoqin-zhu/)

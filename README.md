@@ -1,5 +1,5 @@
 ![Soccer Player Tracker](https://github.com/MaxyZhu75/High-Performance-Soccer-Player-Tracking-System-with-CNN/blob/main/summary/ScreenShots9.png)
-# High Performance Soccer Player Tracking System with Convolutional Neural Networks
+# 🚀 High Performance Soccer Player Tracking System with Convolutional Neural Networks
 Visual object tracking has many practical applications in sports, such as tracking motion trajectory, recording player’s speed and helping make strategies. However, modern soccer has become a very fast-paced affair and with players who possess blistering pace and acceleration to volt forward. Considering that the video streams have a higherframe rate, achieving top tracking performance over real-time speed is considered as one of the main challenges. In this paper, we aim to implement a comprehensive soccer player tracking system which can run at frame-rates beyond real-time, and is easy to use in practice.
 
 ![GUI](https://github.com/MaxyZhu75/High-Performance-Soccer-Player-Tracking-System-with-CNN/blob/main/summary/GUI.png)
@@ -14,7 +14,7 @@ Please check [Screenshots](https://github.com/MaxyZhu75/High-Performance-Soccer-
 ## Implementation Reference
 [1] F. Zhang, Q. Wang, B. Li, Z. Chen, J. Zhou. PysSOT, Github repository, https://github.com/STVIR/pysot, 2018.
 
-## Contact
+## :octocat: Contact
 Thank you so much for your interests. Note that this project can not straightforward be your course assignment solution. Do not download and submit my code without any change. Contact me and I am happy to modify this Soccer Player Tracking System further with you.
 * Email: maoqinzhu@umass.edu
 * LinkedIn: [Max Zhu](https://www.linkedin.com/in/maoqin-zhu/)

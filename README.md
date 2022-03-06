@@ -16,5 +16,5 @@ Please check [Screenshots](https://github.com/MaxyZhu75/High-Performance-Soccer-
 
 ## :octocat: Contact
 Thank you so much for your interests. Note that this project can not straightforward be your course assignment solution. Do not download and submit my code without any change. Contact me and I am happy to modify this Soccer Player Tracking System further with you.
-* Email: maoqinzhu@umass.edu
+* Email: maoqinzhu@umass.edu or zhumaxy@gmail.com
 * LinkedIn: [Max Zhu](https://www.linkedin.com/in/maoqin-zhu/)

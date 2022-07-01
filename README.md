@@ -7,9 +7,9 @@ Visual object tracking has many practical applications in sports, such as tracki
 We equipped the tracker with a state-of-the-art Siamese region proposal network (Siamese-RPN), and trained the network end-to-end off-line with Youtube-BB dataset. In the inference phase, the tracking task can be defined as a local one-shot detection task for a seed up. In order to optimize the feature extractor network in the model, we tested and evaluated different backbones on the public dataset VOT2021. Experiments illustrate that ResNet-50 serving as a backbone in the Siamese-RPN tracking model actually outperforms the modified AlexNet on several aspects, including expected average overlap(EAO), accuracy and robustness. A comprehensive soccer player tracking system also need to manage interaction. As shown in Fig. 1, we used the Tkinter for front-end design, which is one of the most popular graphical user interface(GUI) libraries in Python. Finally, by providing a tracking demo, we can demonstrate that our soccer player tracker runs effectively at least 60 FPS frame rate in a soccer game video stream.
 
 ## Problem Statement & Way to Approach
-Please check out the [Project Report](https://github.com/MaxyZhu75/High-Performance-Soccer-Player-Tracking-System-with-CNN/blob/main/summary/Report.pdf) for details.
+Please check out the [Project Paper](https://github.com/MaxyZhu75/High-Performance-Soccer-Player-Tracking-System-with-CNN/blob/main/summary/Paper.pdf) for details.
 ## Tracking Results
-Please check out the [Screenshots](https://github.com/MaxyZhu75/High-Performance-Soccer-Player-Tracking-System-with-CNN/blob/main/summary/ScreenShots6.png) and [Project Report](https://github.com/MaxyZhu75/High-Performance-Soccer-Player-Tracking-System-with-CNN/blob/main/summary/Report.pdf) for details.
+Please check out the [Screenshots](https://github.com/MaxyZhu75/High-Performance-Soccer-Player-Tracking-System-with-CNN/blob/main/summary/ScreenShots6.png) and [Project Paper](https://github.com/MaxyZhu75/High-Performance-Soccer-Player-Tracking-System-with-CNN/blob/main/summary/Paper.pdf) for details.
 
 ## Implementation Reference
 [1] F. Zhang, Q. Wang, B. Li, Z. Chen, J. Zhou. PysSOT, Github repository, https://github.com/STVIR/pysot, 2018.
